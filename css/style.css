@@ -108,8 +108,19 @@ a:hover{
     color: black;
     transition: all 0.3s;
 }
+
 a:link, a:visited {
     color: gold;
     background-color: gray;
 }
 
+footer{
+    position:relative;
+   left: 0;
+   bottom: 0;
+   height:30px;
+   padding: 5px;
+   width:100%;
+   text-align: center;
+   background:#999;
+}
